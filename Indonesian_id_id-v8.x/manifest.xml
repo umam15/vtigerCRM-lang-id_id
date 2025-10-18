@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<module>
+  <type>language</type>
+  <name>Indonesian</name>
+  <label>Bahasa Indonesia</label>
+  <prefix>id_id</prefix>
+  <version>1.0.0</version>
+  <dependencies>
+	  <vtiger_version>8.0.0</vtiger_version>
+	  <vtiger_max_version>8.*</vtiger_max_version>
+  </dependencies>
+  <license>
+   <inline><![CDATA[
+ ********************************************************************************
+ * The contents of these fileis are subject to the Mozilla Public License Version 1.1
+ * ("License"); You may not use this file except in compliance with the License.
+ * Software distributed under the License is distributed on an  "AS IS"  basis,
+ * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
+ * the specific language governing rights and limitations under the License.
+ ********************************************************************************
+ *  Language     : Indonesian id_id
+ *  Version      : 1.0.0
+ *  Author       : umam15 endsho@gmail.com  https://kohesi.blogspot.com
+
+ ********************************************************************************
+]]></inline>
+  </license>
+</module>

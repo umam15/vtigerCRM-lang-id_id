@@ -1,0 +1,240 @@
+<?php
+/*+***********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ *************************************************************************************/
+$languageStrings = array(
+	'Reports'=>'Laporan',
+	'SINGLE_Reports' => 'Laporan',
+
+	// Basic Strings
+	'LBL_FOLDER_NOT_EMPTY' => 'Folder tidak kosong',
+	'LBL_MOVE_REPORT' => 'Pindahkan Laporan',
+	'LBL_CUSTOMIZE' => 'Sesuaikan',
+	'LBL_REPORT_EXPORT_EXCEL' => 'Ekspor Excel',
+	'LBL_REPORT_PRINT' => 'Cetak',
+	'LBL_CREATING_REPORT' => 'Membuat Laporan',
+	'LBL_EDITING_REPORT' => 'Mengedit Laporan',
+	'LBL_REPORT_DETAILS' => 'Detail Laporan',
+	'LBL_SELECT_COLUMNS' => 'Pilih Kolom',
+	'LBL_FILTERS' => 'Filter',
+	'LBL_FOLDERS' => 'Folder',
+	'LBL_ADD_NEW_FOLDER' => 'Tambah Folder Baru',
+	'LBL_FOLDER_NAME' => 'Nama Folder',
+	'LBL_FOLDER_DESCRIPTION' => 'Deskripsi Folder',
+	'LBL_WRITE_YOUR_DESCRIPTION_HERE' => 'Masukkan Deskripsi',
+	'LBL_DUPLICATES_EXIST' => 'Nama Laporan Sudah Ada',
+	'LBL_FOLDERS_LIST' => 'Daftar Folder',
+	'LBL_DENIED_REPORTS' => 'Laporan Ditolak',
+	'LBL_NO_OF_RECORDS' => 'Total rekaman : ',
+    'LBL_MORE_RECORDS_TXT'=>'Hanya 500 catatan ditampilkan di bawah ini. Silakan ekspor untuk melihat semua Catatan',
+	'LBL_SCHEDULE_REPORTS' => 'Laporan Jadwal',
+	'LBL_AT_TIME' => 'Pada Waktu',
+
+	'LBL_DAILY' => 'Harian',
+	'LBL_WEEKLY' => 'Mingguan',
+	'LBL_MONTHLY_BY_DATE' => 'Bulanan berdasarkan Tanggal',
+	'LBL_YEARLY' => 'Tahunan',
+	'LBL_SPECIFIC_DATE' => 'Pada Tanggal Tertentu',
+	'LBL_CHOOSE_DATE' => 'Pilih Tanggal',
+	'LBL_ON_THESE_DAYS' => 'Pada hari-hari ini',
+	'LBL_SELECT_MONTH_AND_DAY' => 'Pilih Bulan dan Tanggal',
+	'LBL_SELECTED_DATES' => 'Tanggal yang Dipilih',
+	'LBL_EXCEEDING_MAXIMUM_LIMIT' => 'Batas maksimum terlampaui',
+	'LBL_NEXT_TRIGGER_TIME' => 'Waktu pemicu berikutnya aktif',
+	'LBL_RUN_REPORT' =>'Jalankan Laporan',
+	'LBL_SELECT_RECIEPIENTS' => 'Pilih Penerima',
+	'LBL_SPECIFIC_EMAIL_ADDRESS' => 'Kirim ke email tertentu',
+	'LBL_SAME_LEVEL_ROLES' => 'Peran Setingkat',
+	'LBL_SUBORDINATE_ROLES' => 'Peran Bawahan',
+	//ListView Actions
+	'LBL_ADD_RECORD' => 'Tambah Laporan',
+	'LBL_ADD_FOLDER' => 'Tambah Folder',
+	'LBL_REPORT_DELETE_DENIED' => 'Izin untuk menghapus Laporan ditolak',
+
+	//Folder Actions
+	'LBL_FOLDER_NOT_EMPTY' => 'Folder tidak kosong',
+	'LBL_FOLDER_CAN_NOT_BE_DELETED' => 'Folder ini tidak dapat dihapus',
+
+	//Mass Actions
+	'LBL_REPORTS_LIST' => 'Daftar Laporan',
+
+	//Step1 Strings
+	'LBL_REPORT_NAME' => 'Nama Laporan',
+	'LBL_REPORT_FOLDER' => 'Folder Laporan',
+	'LBL_DESCRIPTION' => 'Deskripsi',
+	'PRIMARY_MODULE' => 'Modul Utama',
+	'LBL_SELECT_RELATED_MODULES' => 'Pilih Modul Terkait',
+	'LBL_MAX' => 'Maks',
+	'LBL_NEXT' => 'Berikutnya',
+	'LBL_REPORTS' => 'Daftar Laporan',
+	'LBL_SELECT_RELATED_MODULES' => 'Pilih Terkait Modul',
+
+	//Step2 Strings
+	'LBL_GROUP_BY' => 'Kelompokkan Berdasarkan',
+	'LBL_SORT_ORDER' => 'Urutan Sort',
+	'LBL_ASCENDING' => 'Ascending',
+	'LBL_DESCENDING' => 'Descending',
+	'LBL_CALCULATIONS' =>'Perhitungan',
+	'LBL_COLUMNS' => 'Kolom',
+	'LBL_SUM_VALUE' => 'Jumlah',
+	'LBL_AVERAGE' => 'Rata-rata',
+	'LBL_LOWEST_VALUE' => 'Nilai Terendah',
+	'LBL_HIGHEST_VALUE' => 'Nilai Tertinggi',
+
+	//Step3 Strings
+	'LBL_GENERATE_REPORT' => 'Simpan & Buat Laporan',
+
+	//DetailView
+	'LBL_SUM' => 'SUM',
+	'LBL_AVG' => 'AVG',
+	'LBL_MAX' => 'MAX',
+	'LBL_MIN' => 'MIN',
+	'LBL_FIELD_NAMES' => 'Nama Bidang',
+	'LBL_REPORT_CSV' => 'Ekspor CSV',
+	'LBL_VIEW_DETAILS' => 'Lihat Detail',
+	'LBL_GENERATE_NOW' => 'Buat sekarang',
+
+	//List View Headers
+	'Report Name' => 'Nama Laporan',
+
+	//Default Folders Names, Report Names and Description
+	'Account and Contact Reports'=>'Laporan Organisasi dan Kontak',
+	'Lead Reports'=>'Laporan Prospek',
+	'Potential Reports'=>'Laporan Peluang',
+	'Activity Reports'=>'Laporan Aktivitas',
+	'HelpDesk Reports'=>'Laporan Tiket',
+	'Product Reports'=>'Laporan Produk',
+	'Quote Reports'=>'Laporan Penawaran Harga',
+	'PurchaseOrder Reports'=>'Laporan Pesanan Pembelian',
+	'SalesOrder Reports'=>'Laporan Pesanan Penjualan', //Added for SO
+	'Invoice Reports'=>'Laporan Faktur',
+	'Campaign Reports'=>'Laporan Kampanye', //Added for Campaigns
+	'Contacts by Accounts'=>'Kontak berdasarkan Organisasi',
+	'Contacts without Accounts'=>'Kontak tanpa Organisasi',
+	'Contacts by Potentials'=>'Kontak berdasarkan Peluang',
+	'Contacts related to Accounts'=>'Kontak yang terkait dengan Organisasi',
+	'Contacts not related to Accounts'=>'Kontak yang tidak terkait dengan Organisasi',
+	'Contacts related to Potentials'=>'Kontak terkait Peluang',
+	'Lead by Source'=>'Prospek berdasarkan Sumber',
+	'Lead Status Report'=>'Laporan Status Prospek',
+	'Potential Pipeline'=>'Jalur Peluang',
+	'Closed Potentials'=>'Peluang Tertutup',
+	'Potential that have Won'=>'Peluang yang Dimenangkan',
+	'Tickets by Products'=>'Tiket berdasarkan Produk',
+	'Tickets by Priority'=>'Tiket Berdasarkan Prioritas',
+	'Open Tickets'=>'Tiket Terbuka',
+	'Tickets related to Products'=>'Tiket Terkait Produk',
+	'Tickets that are Open'=>'Tiket Terbuka',
+	'Product Details'=>'Detail Produk',
+	'Products by Contacts'=>'Produk Berdasarkan Kontak',
+	'Product Detailed Report'=>'Laporan Detail Produk',
+	'Products related to Contacts'=>'Produk Terkait Kontak',
+	'Open Quotes'=>'Penawaran Terbuka',
+	'Quotes Detailed Report'=>'Laporan Detail Penawaran',
+	'Quotes that are Open'=>'Penawaran Terbuka',
+	'PurchaseOrder by Contacts'=>'Pesanan Pembelian Berdasarkan Kontak',
+	'PurchaseOrder Detailed Report'=>'Laporan Detail Pesanan Pembelian',
+	'PurchaseOrder related to Contacts'=>'Pesanan Pembelian Terkait Kontak',
+	'Invoice Detailed Report'=>'Laporan Detail Faktur',
+	'Last Month Activities'=>'Aktivitas Bulan Lalu',
+	'This Month Activities'=>'Aktivitas Bulan Ini',
+	'Campaign Expectations and Actuals'=>'Ekspektasi dan Aktual Kampanye', //Added for Campaigns
+	'SalesOrder Detailed Report'=>'Laporan Detail Order Penjualan', //Added for SO
+
+	'Email Reports'=>'Laporan Email',
+	'Contacts Email Report'=>'Laporan Email Kontak',
+	'Accounts Email Report'=>'Laporan Email Organisasi',
+	'Leads Email Report'=>'Laporan Email Prospek',
+	'Vendors Email Report'=>'Laporan Email Vendor',
+
+	'Emails sent to Contacts' => 'Email yang dikirim ke Kontak',
+	'Emails sent to Organizations' => 'Email yang dikirim ke Organisasi',
+	'Emails sent to Leads' => 'Email yang dikirim ke Prospek',
+	'Emails sent to Vendors' => 'Email yang dikirim ke Vendor',
+
+	'LBL_PRINT_REPORT' => 'Cetak Laporan',
+	'LBL_RECORDS' => 'Rekaman',
+	'LBL_LIMIT_EXCEEDED' => 'Hanya 1000+ data yang ditampilkan. Gunakan Ekspor CSV atau Excel untuk melihat semua data',
+	'LBL_TOP' => 'Teratas',
+	'LBL_ALL_REPORTS' => 'Semua Laporan',
+	'LBL_CALCULATION_CONVERSION_MESSAGE' => 'Perhitungan berdasarkan mata uang Preferensi Saya CRM Anda',
+
+    //Summary/Pivot Reports
+    'LBL_CREATING_PIVOT_REPORT' => 'Buat Laporan Pivot',
+    'LBL_EDITING_PIVOT_REPORT' => 'Edit Laporan Pivot',
+    'LBL_SELECT_PIVOT_FIELDS' => 'Pilih Bidang Pivot',
+    'LBL_SELECT_ROWS' => 'Pilih Baris ',
+    'LBL_SELECT_DATA_FIELDS' => 'Pilih Bidang Data ',
+    'LBL_ADD_ROWS' => 'Tambah Baris',
+    'LBL_ADD_COLUMNS' => 'Tambah Kolom',
+    'LBL_ADD_DATA_FIELDS' => 'Tambahkan Kolom Data',
+    'LBL_PIVOT_FIELDS' => 'Kolom Pivot Terpilih',
+    'LBL_RECORD_COUNT' => 'Jumlah Rekaman',
+    'LBL_SELECT_PIVOT_FIELDS_WARNING' => 'Peringatan: Harap pilih setidaknya satu kolom Baris, kolom Kolom, dan kolom Data.',
+    'LBL_PIVOT_DATA_FIELDS_WARNING' => 'Peringatan: Di Kolom Data - fungsi agregasi (jumlah, rata-rata, minimum, dan maksimum) tidak boleh berulang.',
+    'LBL_MODIFY_CONDITIONS' => 'Ubah Kondisi',
+    'LBL_PIVOT_PREVIEW_EX' => 'Pratinjau Laporan Pivot (Contoh)',
+
+	//charts labels
+	'LBL_SELECT_CHART_TYPE' => 'Pilih jenis grafik',
+	'LBL_CLICK_THROUGH_NOT_AVAILABLE' => 'Klik tayang tidak tersedia karena Anda telah memilih lebih dari satu modul',
+	'LBL_TOTAL_SUM_OF' => 'Total Jumlah %s',
+	'LBL_AVG_OF' => 'Rata-rata %s',
+	'LBL_MIN_OF' => 'Minimum %s',
+	'LBL_MAX_OF' => 'Maksimum %s',
+	'LBL_RECORD_COUNT' => 'Jumlah Rekaman',
+	'LBL_PIE_CHART' => 'Diagram Pai',
+	'LBL_VERTICAL_BAR_CHART' => 'Diagram Batang Vertikal',
+	'LBL_HORIZONTAL_BAR_CHART' => 'Diagram Batang Horizontal',
+	'LBL_LINE_CHART' => 'Diagram Garis',
+	'LBL_SELECT_CHART' => 'Pilih Chart',
+	'LBL_CREATING_CHART_REPORT' => 'Membuat Laporan Chart',
+	'LBL_EDITING_CHART_REPORT' => 'Mengedit Laporan Chart',
+	'LBL_GENERATE_CHART' => 'Buat Chart',
+	'LBL_SELECT_GROUP_BY_FIELD' => 'Pilih Kolom Groupby',
+	'LBL_SELECT_DATA_FIELD' => 'Pilih Kolom Data',
+	'LBL_MODIFY_CONDITION' => 'Ubah Kondisi',
+	'LBL_PLEASE_SELECT_ATLEAST_ONE_GROUP_FIELD_AND_DATA_FIELD' => 'Silakan pilih setidaknya satu kolom Groupby dan satu kolom Data.',
+	'LBL_FOR_BAR_GRAPH_AND_LINE_GRAPH_SELECT_3_MAX_DATA_FIELDS' => 'Untuk grafik Batang dan Garis, Anda dapat memilih maksimal 3 kolom Data.',
+	'LBL_DETAIL_REPORT' => 'Laporan Detail',
+	'LBL_PIVOT_REPORT' => 'Laporan Pivot',
+	'LBL_CHARTS' => 'Chart',
+    //Schedule Reports - Mail Content
+    'LBL_AUTO_GENERATED_REPORT_EMAIL' => 'Ini adalah email yang dibuat secara otomatis untuk laporan terjadwal.',
+    'LBL_PIN_CHART_TO_DASHBOARD' => 'Sematkan Chart ke Dasbor',
+    'LBL_FILE_FORMAT' => 'Format Berkas',
+    
+    'Report Type' => 'Jenis Laporan',
+    'tabular' => 'Detail',
+    'summary' => 'Tabular',
+    'pivot' => 'Pivot',
+    'chart' => 'Chart',
+
+    'LBL_REPORTS_MOVED_SUCCESSFULLY'=>'Laporan Berhasil Dipindahkan.',
+    'LBL_SAME_SOURCE_AND_TARGET_FOLDER'=>'Folder Target Sama dengan Folder Sumber.',
+	'LBL_SHARE_REPORT' => 'Bagikan Laporan',
+	'LBL_SHARED_REPORTS' => 'Dibagikan dengan Saya',
+	'LBL_PINNED' => 'Disematkan',
+	'LBL_UNPINNED' => 'Tidak Disematkan',
+	'LBL_SEARCH_FOR_FOLDERS' => 'Cari folder',
+	'LBL_CHART_REPORT' => 'Laporan Chart',
+	'LBL_UNPIN_CHART_FROM_DASHBOARD' => 'Lepas sematan Chart dari dasbor',
+	'LBL_REPORTS_DELETED_SUCCESSFULLY' => 'Laporan Berhasil Dihapus',
+);
+$jsLanguageStrings = array(
+	'JS_DUPLICATE_RECORD' => 'Laporan Duplikat',
+	'JS_CALCULATION_LINE_ITEM_FIELDS_SELECTION_LIMITATION' => 'Batasan: Kolom Item Baris (Harga Daftar, Diskon & Kuantitas) hanya dapat digunakan jika kolom perhitungan lain tidak dipilih.',
+	'JS_NO_CHART_DATA_AVAILABLE' => 'Data tidak tersedia, silakan periksa kolom yang dipilih',
+    'JS_CHART_PINNED_TO_DASHBOARD' => 'Grafik Disematkan ke Dasbor',
+    'JS_CHART_ALREADY_PINNED_TO_DASHBOARD' => 'Grafik Sudah Disematkan ke Dasbor',
+	'JS_MOVE_REPORTS'=>'Pindahkan Laporan',
+    'JS_SCHEDULED_DATE_TIME_ERROR' => 'Tanggal dan waktu yang dijadwalkan harus lebih besar dari tanggal dan waktu saat ini',
+	'JSLBL_PIN_CHART_TO_DASHBOARD' => 'Sematkan Grafik ke Dasbor',
+	'JSLBL_UNPIN_CHART_FROM_DASHBOARD' => 'Lepaskan sematan grafik dari dasbor',
+	'JS_CHART_REMOVED_FROM_DASHBOARD' => 'Grafik dihapus dari dasbor',
+);
