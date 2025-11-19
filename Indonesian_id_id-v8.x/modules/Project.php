@@ -9,25 +9,25 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Project'=>'Projects',
-	'SINGLE_Project' => 'Project',
-	'LBL_ADD_RECORD' => 'Tambahkan Project',
-	'LBL_RECORDS_LIST' => 'Daftar Project',
+	'Project'=>'Proyek',
+	'SINGLE_Project' => 'Proyek',
+	'LBL_ADD_RECORD' => 'Tambahkan Proyek',
+	'LBL_RECORDS_LIST' => 'Daftar Proyek',
 
 	// Blocks
 	'LBL_PROJECT_INFORMATION' => 'Detail Project',
 
 	//Field Labels
-	'Project Name' => 'Nama Project',
+	'Project Name' => 'Nama Proyek',
 	'Start Date' => 'Tanggal Mulai',
 	'Target End Date' => 'Target End Date',
 	'Actual End Date' => 'Tanggal Akhir Aktual',
-	'Project No' => 'Nomor Project',
+	'Project No' => 'Nomor Proyek',
 	'Target Budget' => 'Target Budget',
-	'Project Url' => 'Project Url',
+	'Project Url' => 'Url Proyek',
 	'Progress' => 'Progress',
-		'Type' => 'Type',
-	'Related to' => 'Related To',
+		'Type' => 'Tipe',
+	'Related to' => 'Terkait dengan',
 
 	//Summary Information
 	'LBL_TASKS_OPEN' => 'Tugas Terbuka',
