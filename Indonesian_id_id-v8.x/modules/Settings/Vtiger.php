@@ -108,7 +108,7 @@ $languageStrings = array(
 	'LBL_CONFIG_EDITOR_DESCRIPTION' => 'Perbarui berkas konfigurasi aplikasi',
 	'Update configuration file of the application' => 'Perbarui berkas konfigurasi aplikasi',
 	'LBL_PERSONAL_EMAIL_TRACKING_INFO' => "Untuk melacak pembukaan email langsung yang dikirim ke kontak, harap aktifkan kotak centang ini. Harap diperhatikan bahwa email yang dikirim dari modul Kampanye Email selalu dilacak, dan tidak terpengaruh oleh pengaturan ini",
-	'LBL_CUSTOMER_PORTAL' => 'CPortal Pelanggan',
+	'LBL_CUSTOMER_PORTAL' => 'Portal Pelanggan',
 	'PORTAL_EXTENSION_DESCRIPTION' => 'Memungkinkan Anda mengonfigurasi Plugin Portal Pelanggan',
 	
 	'LBL_LAYOUT_EDITOR_DESCRIPTION' => 'Merancang dan memodifikasi tata letak di setiap modul',

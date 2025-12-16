@@ -2,7 +2,7 @@
 <module>
   <type>language</type>
   <name>Indonesian</name>
-  <label>Bahasa Indonesia</label>
+  <label>Indonesia</label>
   <prefix>id_id</prefix>
   <version>1.0.0</version>
   <dependencies>
